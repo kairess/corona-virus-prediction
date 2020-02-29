@@ -5,7 +5,7 @@
 - [Click Here for Google Collab Walkthrough](https://drive.google.com/file/d/1C9hAgLVQpSw4JFZLjXV8xANfHWXMToQg/view?usp=sharing)
 - [구글 콜랩을 이용해서 코드를 실행해보세요](https://drive.google.com/file/d/1C9hAgLVQpSw4JFZLjXV8xANfHWXMToQg/view?usp=sharing)
 
-![20200229](/Users/noopy/_forks/corona-virus-prediction/20200229.png)
+![20200229](./20200229.png)
 
 ## Dependency and Modules
 
